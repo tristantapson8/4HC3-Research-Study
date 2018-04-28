@@ -8,7 +8,6 @@ public class timer {
 	TimerTask task = new TimerTask(){
 		public void run(){
 			secondsPassed++;
-			//if()
 			//System.out.println("completion time: " + secondsPassed);
 		}
 	};
