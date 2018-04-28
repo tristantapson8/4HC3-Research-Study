@@ -76,8 +76,7 @@ class Paint extends JPanel implements ActionListener {
                 g2d.fillRect(rectE.x, rectE.y, rectE.w, rectE.h);
                 g2d.setColor(Color.ORANGE);
                 g2d.fillRect(rectV1.x, rectV1.y, rectV1.w, rectV1.h);
-                //g2d.setColor(Color.GREEN);
-                //g2d.fillRect(rectV2.x, rectV2.y, rectV2.w, rectV2.h);
+               
         }
         
 	@Override
