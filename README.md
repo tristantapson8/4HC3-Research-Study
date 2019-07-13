@@ -1,6 +1,6 @@
 # 4HC3 Research Study
 
-This was a project done for a course used to test user accuracy and performance over multiple devices (mouse, trackpad, and touchpad).
+* This was a project done for a course used to test user accuracy and performance over multiple devices (mouse, trackpad, and touchpad).
 The program uses mutiple classes - it is a simple maze test with sound effects to allow the user to scroll through the maze, and output and feedback regarding time and performance is stored and formatted in a simple textfile; maze found below:
 
 ![testMaze](https://user-images.githubusercontent.com/26290279/61164088-3cba9080-a4e0-11e9-986e-58665c0f9bef.PNG)
